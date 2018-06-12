@@ -393,11 +393,7 @@ This plot shows the curve of loss and the accuracy during training
 plot(history)
 ```
 
-p 153 -> visualize convnet
-
-### Inspect the Filters
-
-
+See page 153 in Deep Learning with R for more examples of how to visualize convnet layers.
 
 # Run the Example
 
