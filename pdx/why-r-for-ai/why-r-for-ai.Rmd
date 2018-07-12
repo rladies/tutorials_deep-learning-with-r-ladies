@@ -1,0 +1,19 @@
+---
+title: "Why R for AI?"
+author: "Augustina Ragwitz"
+date: "June 13, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Dammit Jim, I'm a Scientist, Not a Software Engineer!
+
+
+
+## 2. Cite Me!
+
+
+
